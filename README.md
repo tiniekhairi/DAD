@@ -24,11 +24,12 @@ Github URL repository: https://github.com/tiniekhairi
 
 OUTPUT:
 
- ![](Output 1.PNG)
- 
- ![](Output 2.PNG)
- 
- ![](Output 3.PNG)
+![output 1](https://user-images.githubusercontent.com/38327137/48010893-753bea80-e159-11e8-9433-ae6582b9e658.PNG)
+
+![output 2](https://user-images.githubusercontent.com/38327137/48010916-84229d00-e159-11e8-8ecb-05bc51b85be0.PNG)
+
+![output 3](https://user-images.githubusercontent.com/38327137/48010924-87b62400-e159-11e8-9c48-259e590e211e.PNG)
+
 
  
  
